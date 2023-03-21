@@ -1,0 +1,15 @@
+D:\HomeWork\Projects\Compooser\Compooser\bin\Debug\net6.0\Compooser.exe
+D:\HomeWork\Projects\Compooser\Compooser\bin\Debug\net6.0\Compooser.deps.json
+D:\HomeWork\Projects\Compooser\Compooser\bin\Debug\net6.0\Compooser.runtimeconfig.json
+D:\HomeWork\Projects\Compooser\Compooser\bin\Debug\net6.0\Compooser.dll
+D:\HomeWork\Projects\Compooser\Compooser\bin\Debug\net6.0\Compooser.pdb
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.AssemblyInfoInputs.cache
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.AssemblyInfo.cs
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.dll
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\refint\Compooser.dll
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.pdb
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\Compooser.genruntimeconfig.cache
+D:\HomeWork\Projects\Compooser\Compooser\obj\Debug\net6.0\ref\Compooser.dll
